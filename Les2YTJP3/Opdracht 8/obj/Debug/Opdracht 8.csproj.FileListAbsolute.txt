@@ -1,0 +1,10 @@
+C:\Users\Youri-Tristan\Desktop\GitProjects\Testing\Les2YTJP3\Opdracht 8\bin\Debug\Opdracht 8.exe.config
+C:\Users\Youri-Tristan\Desktop\GitProjects\Testing\Les2YTJP3\Opdracht 8\bin\Debug\Opdracht 8.exe
+C:\Users\Youri-Tristan\Desktop\GitProjects\Testing\Les2YTJP3\Opdracht 8\bin\Debug\Opdracht 8.pdb
+C:\Users\Youri-Tristan\Desktop\GitProjects\Testing\Les2YTJP3\Opdracht 8\obj\Debug\Opdracht 8.csprojAssemblyReference.cache
+C:\Users\Youri-Tristan\Desktop\GitProjects\Testing\Les2YTJP3\Opdracht 8\obj\Debug\Opdracht_8.Form1.resources
+C:\Users\Youri-Tristan\Desktop\GitProjects\Testing\Les2YTJP3\Opdracht 8\obj\Debug\Opdracht_8.Properties.Resources.resources
+C:\Users\Youri-Tristan\Desktop\GitProjects\Testing\Les2YTJP3\Opdracht 8\obj\Debug\Opdracht 8.csproj.GenerateResource.cache
+C:\Users\Youri-Tristan\Desktop\GitProjects\Testing\Les2YTJP3\Opdracht 8\obj\Debug\Opdracht 8.csproj.CoreCompileInputs.cache
+C:\Users\Youri-Tristan\Desktop\GitProjects\Testing\Les2YTJP3\Opdracht 8\obj\Debug\Opdracht 8.exe
+C:\Users\Youri-Tristan\Desktop\GitProjects\Testing\Les2YTJP3\Opdracht 8\obj\Debug\Opdracht 8.pdb
