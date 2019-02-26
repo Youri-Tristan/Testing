@@ -1,0 +1,10 @@
+C:\Users\Youri-Tristan\source\repos\H6YTJP3\Opdracht7\bin\Debug\Opdracht7.exe.config
+C:\Users\Youri-Tristan\source\repos\H6YTJP3\Opdracht7\bin\Debug\Opdracht7.exe
+C:\Users\Youri-Tristan\source\repos\H6YTJP3\Opdracht7\bin\Debug\Opdracht7.pdb
+C:\Users\Youri-Tristan\source\repos\H6YTJP3\Opdracht7\obj\Debug\Opdracht7.csprojAssemblyReference.cache
+C:\Users\Youri-Tristan\source\repos\H6YTJP3\Opdracht7\obj\Debug\Opdracht7.Form1.resources
+C:\Users\Youri-Tristan\source\repos\H6YTJP3\Opdracht7\obj\Debug\Opdracht7.Properties.Resources.resources
+C:\Users\Youri-Tristan\source\repos\H6YTJP3\Opdracht7\obj\Debug\Opdracht7.csproj.GenerateResource.cache
+C:\Users\Youri-Tristan\source\repos\H6YTJP3\Opdracht7\obj\Debug\Opdracht7.csproj.CoreCompileInputs.cache
+C:\Users\Youri-Tristan\source\repos\H6YTJP3\Opdracht7\obj\Debug\Opdracht7.exe
+C:\Users\Youri-Tristan\source\repos\H6YTJP3\Opdracht7\obj\Debug\Opdracht7.pdb
